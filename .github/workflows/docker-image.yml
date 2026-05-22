@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: tu_usuario/mi-app-node:latest
+          tags: randysaul/mi-app-node:latest
