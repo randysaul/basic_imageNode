@@ -15,6 +15,7 @@ app.get('/', (req, res) => {
         <h1>El color de la fuente es: ${color}</h1>
         <hr>
         <p>Se agrega otro texto</p>
+        <p>Otro texto adicional</p>
       </body>
     </html>
   `);
